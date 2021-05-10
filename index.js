@@ -6,8 +6,8 @@
     document.getElementById("button_yes").onclick = function() 
     {
 
-        document.getElementById("Confrim").innerHTML = "purchase is confimed";
-       // document.getElementById("button_no").innerHTML = "purchase is cancelled";
+        document.getElementById("Confrim").innerHTML = "schedule is confrimed";
+      
         document.getElementById("button_yes").style.display="none";
     }
    /* document.getElementById("button_no").onclick = function() 
